@@ -1,5 +1,5 @@
- # Machine Learning Specialization Coursera
-About this Specialization
+ # Coursera's Machine Learning Specialization
+This Specialization is about
 
 Designed in collabration with DeepLearning.AI and Stanford Online, this beginner friendly progrm will introduces ou to the fundamentals of machine learning and how to apply them to real world AI problems.
 
