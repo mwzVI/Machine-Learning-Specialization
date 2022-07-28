@@ -1,0 +1,8 @@
+![Anomaly detection](https://user-images.githubusercontent.com/77918472/181566124-21de92b1-d368-432e-80b4-f9b9c688297b.jpg)
+![Clustering](https://user-images.githubusercontent.com/77918472/181566143-f24326fb-037b-4e21-8600-92f4ae5d12fa.jpg)
+![Collaborative Filtering](https://user-images.githubusercontent.com/77918472/181566161-ed67dc08-8660-46df-9f9c-445b173233bb.jpg)
+![Content-based filtering](https://user-images.githubusercontent.com/77918472/181566164-90d10ca0-8d78-4e51-9487-2becb14d63dd.jpg)
+![Continuous state spaces](https://user-images.githubusercontent.com/77918472/181566170-6fe84942-9551-40ff-890e-ce7046e8b7d4.jpg)
+![Recommender systems implementation](https://user-images.githubusercontent.com/77918472/181566173-55343b0b-92b2-4a8b-b9aa-644172d7d047.jpg)
+![Reinforcement learning introduction](https://user-images.githubusercontent.com/77918472/181566180-f7a72c54-7927-48b1-b4df-9b5d3928079c.jpg)
+![State-action value function](https://user-images.githubusercontent.com/77918472/181566184-13b5d88d-412c-488c-b6fa-de955a1aae7c.jpg)
